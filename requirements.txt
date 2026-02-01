@@ -3,7 +3,6 @@ Django==6.0
 django-cors-headers==4.9.0
 djangorestframework==3.16.1
 gunicorn==24.1.1
-
 packaging==26.0
 sqlparse==0.5.5
 tzdata==2025.3
